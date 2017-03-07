@@ -1,0 +1,14 @@
+{
+  "id": 2,
+  "action": "DECLINED",
+  "state": "DECLINED",
+  "version": "2",
+  "title": "FE-2 fix(readme): proper val",
+  "comment": "",
+  "repository": "xc-r2d2",
+  "branch_from": "FE-2-change-readme-again",
+  "branch_to": "master",
+  "author_id": "1",
+  "author_name": "dominic.watson",
+  "author_email": "dominic.watson@xcaliber.com"
+}
